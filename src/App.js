@@ -5,11 +5,11 @@ import WeatherForm from './card';
 
 function App() {
   return (
-
     
-    <WeatherForm/>
-
-    
+       
+         <WeatherForm/>
+      
+      
   );
 }
 
